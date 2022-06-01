@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1654045380195,
+  "timestamp": 1654045633522,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "./favicon.ico",
         "./index.html",
-        "./main.a9d1f2b89771e415.js",
+        "./main.f250f49c6e10cda0.js",
         "./manifest.webmanifest",
         "./polyfills.f280a8b15a86a4af.js",
         "./runtime.f4a02506af37cb8f.js",
@@ -89,8 +89,8 @@
     "./assets/img/thor.jpg": "9fd9ec4b24d1b02705761efb17b36aaf1bca2746",
     "./assets/img/wolverine.png": "c39dac4245c9b7c2f49c6bb380cf439df8f4c5c2",
     "./favicon.ico": "ebb64a03c84e7d5a5aaf551fa004fd0d3d6d8092",
-    "./index.html": "eabeb94df4c6f82c75f12514b2289296be83272e",
-    "./main.a9d1f2b89771e415.js": "b696e54ede75d1c1916be0a2d09296c0272bf21c",
+    "./index.html": "8fc0fbc37211a70cb270d072abd6278efed2dddf",
+    "./main.f250f49c6e10cda0.js": "faa0820bcb594eb9cc844a8ae3d5065e30698620",
     "./manifest.webmanifest": "4d8dafef1e45d2278e999f4bd42d4de8f1c8a016",
     "./polyfills.f280a8b15a86a4af.js": "59d01b8f64dfbca0206a5e7d6cab1c03fddeb347",
     "./runtime.f4a02506af37cb8f.js": "d91d76faf585971f9b4188cae567ba75d376ef40",
